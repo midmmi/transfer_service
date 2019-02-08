@@ -1,5 +1,3 @@
-Assessment application for Ingenico epayment.
-
 Application is built on a base of Spring Boot. 
 In-memory database H2 is used as persistence level. 
 Maven is used as built tool.
